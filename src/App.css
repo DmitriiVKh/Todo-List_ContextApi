@@ -1,0 +1,21 @@
+.todo-list.dark-theme {
+  background-color: #333;
+  color: #fff;
+}
+
+.todo-list.dark-theme h1 {
+  color: #fff;
+}
+
+.todo-list.dark-theme ul {
+  background-color: #333;
+}
+
+.todo-list.dark-theme li {
+  background-color: #444;
+  box-shadow: 0 2px 4px rgba(255, 255, 255, 0.1);
+}
+
+.todo-list.dark-theme li:hover {
+  background-color: #555;
+}
